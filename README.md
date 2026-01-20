@@ -102,7 +102,7 @@ Features
 
 Installation
 # Clone the repository
-git cloaccurate-spider-bot-v0.0.2.git
+git clonehttps://github.com/Iankulani/accurate-spider-bot-v0.0.2.git
 
 # Navigate to the project folder
 cd accurate-spider-bot-v0.0.2
