@@ -102,18 +102,20 @@ Features
 
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/accurate-spider-bot.git
+git cloaccurate-spider-bot-v0.0.2.git
 
 # Navigate to the project folder
-cd accurate-spider-bot
+cd accurate-spider-bot-v0.0.2
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the bot
-python spider_bot.py
+```bash
+python accurate-spider-bot-v0.0.2.py
+```
 
-Configuration
+**Configuration**
 
 Set up Telegram integration via config.json (bot token and chat ID).
 
@@ -141,7 +143,7 @@ Enhanced dashboards and reporting
 
 Multi-platform messaging support
 
-Contributing
+**Contributing**
 
 Contributions are welcome! You can:
 
@@ -151,13 +153,6 @@ Submit pull requests with improvements or new modules
 
 Suggest new monitoring or Telegram command features
 
-## How to clone the repo
-```bash
-git clone https://github.com/Iankulani/accurate-spider-bot-v0.0.2.git
-cd accurate-spider-bot-v0.0.2
-```
 
- ## How to run
- ```bash
-python3 accurate-spider-bot-v0.0.2.py
-``` 
+## Screenshot
+
