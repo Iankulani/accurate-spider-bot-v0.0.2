@@ -6,7 +6,7 @@
 Accurate Spider Bot v0.0.2 is an advanced cybersecurity monitoring tool designed to help users analyze, detect, and respond to network threats in real time. This version introduces port scanning enablement and TCP traffic monitoring, providing deeper visibility into network activity. It is ideal for military cyber training, universities, lecturers, and Cyber Training Centers (CTC).
 Features
 
-**1. Port Scanning Enablement**
+# 1. Port Scanning Enablement**
 
 * Analyze open, closed, and filtered ports
 
