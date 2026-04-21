@@ -154,5 +154,6 @@ Submit pull requests with improvements or new modules
 Suggest new monitoring or Telegram command features
 
 
-## Screenshot
+# Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/accurate-spider-bot-v0.0.2&type=Date)](https://star-history.com/#Iankulani/accurate-spider-bot-v0.0.2&Date)
