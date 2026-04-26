@@ -100,17 +100,22 @@ Features
 
 ⚠️ Important: Only use on networks you own or have explicit permission to monitor. Unauthorized use is illegal and unethical.
 
-Installation
+# Installation
+
 # Clone the repository
+```bash
 git clonehttps://github.com/Iankulani/accurate-spider-bot-v0.0.2.git
-
+```
 # Navigate to the project folder
+```bash
 cd accurate-spider-bot-v0.0.2
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 # Run the bot
+
 ```bash
 python accurate-spider-bot-v0.0.2.py
 ```
@@ -119,39 +124,30 @@ python accurate-spider-bot-v0.0.2.py
 
 Set up Telegram integration via config.json (bot token and chat ID).
 
-Start monitoring modules using Telegram commands.
+* Start monitoring modules using Telegram commands.
 
-Receive real-time alerts and logs directly in Telegram.
+* Receive real-time alerts and logs directly in Telegram.
 
 Changelog (v0.0.2)
 
-Added port scanning enablement for educational and operational use
+* Added port scanning enablement for educational and operational use
 
-Integrated TCP traffic monitoring for deeper network analysis
+* Integrated TCP traffic monitoring for deeper network analysis
 
-Improved logging and visualization
+* Improved logging and visualization
 
-Optimized performance for real-time monitoring
+* Optimized performance for real-time monitoring
 
-Future Plans
 
-AI-based anomaly detection
-
-Additional network attack simulation modules
-
-Enhanced dashboards and reporting
-
-Multi-platform messaging support
-
-**Contributing**
+# Contributing
 
 Contributions are welcome! You can:
 
-Report issues or request features via GitHub Issues
+* Report issues or request features via GitHub Issues
 
-Submit pull requests with improvements or new modules
+* Submit pull requests with improvements or new modules
 
-Suggest new monitoring or Telegram command features
+* Suggest new monitoring or Telegram command features
 
 
 # Star History
